@@ -1,0 +1,14 @@
+{
+    "name": "bot-warzone",
+    "version": "1.0.0",
+    "description": "Bot de Discord para Warzone",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^13.6.0",
+      "axios": "^0.21.1",
+      "express": "^4.17.1"
+    }
+  }
